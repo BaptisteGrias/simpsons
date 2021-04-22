@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+.QuoteCard {
+  width: 400px;
+}
+
+.QuoteCard img {
+  width: 50%;
+}
+
+.QuoteCard cite {
+  display: flex;
+
+  margin-left: 50px;
+}
